@@ -3,13 +3,7 @@
 ## Refined from:
 ##    -Molly Lippsett 2020, Methods for Period Over Period (PoP) Analysis in Looker,[LookML Example],https://community.looker.com/technical-tips-tricks-1021/methods-for-period-over-period-pop-analysis-in-looker-30823
 ##    -Llooker 2020, Lookml period over period analysis in different dialects, [views],https://github.com/llooker/period_over_period_analysis
-##
-## Created by: Carl Clifford - Bytecode IO
-## Create Date: 11/29/2022
-##
-## Modified by: Carl Clifford
-## Modified Date: 12/2/2022
-## Comments: Added SQL Dialects
+
 
 
 include: "/views/order_items.view.lkml"
