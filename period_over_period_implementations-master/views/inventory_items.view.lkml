@@ -1,11 +1,4 @@
-## View generated automatically from looker_partner_demo connection table
-##
-## Created by: Carl Clifford - Bytecode IO
-## Create Date: 11/28/2022
-##
-## Modified by:
-## Modified Date:
-## Comments:
+
 
 # The name of this view in Looker is "Inventory Items"
 view: inventory_items {
