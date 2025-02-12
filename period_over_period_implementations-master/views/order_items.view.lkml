@@ -1,10 +1,6 @@
 ## View generated automatically from looker_partner_demo connection table
 ##
-## Created by: Carl Clifford - Bytecode IO
-## Create Date: 11/28/2022
-##
-## Modified by: Carl Clifford
-## Modified Date: 11/30/2020
+
 ## Comments: added month_num and month_name to support out of the box pop method 1 comparison
 
 # The name of this view in Looker is "Order Items"
